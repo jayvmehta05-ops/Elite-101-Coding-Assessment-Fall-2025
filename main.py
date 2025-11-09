@@ -169,5 +169,4 @@ def menu():
             print('Invalid choice, try again')
 if __name__ == "__main__":
     menu()
-    # tested on another file
-    # quick manual testing also done
+    # manual testing 
