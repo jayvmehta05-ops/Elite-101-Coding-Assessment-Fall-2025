@@ -13,8 +13,8 @@ library_books = [
         "title": "To Kill a Mockingbird",
         "author": "Harper Lee",
         "genre": "Historical",
-        "available": False,
-        "due_date": "2025-11-01",
+        "available": True,
+        "due_date": None,
         "checkouts": 5
     },
     {
@@ -49,8 +49,8 @@ library_books = [
         "title": "The Hobbit",
         "author": "J.R.R. Tolkien",
         "genre": "Fantasy",
-        "available": False,
-        "due_date": "2025-11-10",
+        "available": True,
+        "due_date": None,
         "checkouts": 8
     },
     {
@@ -67,8 +67,8 @@ library_books = [
         "title": "The Catcher in the Rye",
         "author": "J.D. Salinger",
         "genre": "Coming-of-Age",
-        "available": False,
-        "due_date": "2025-11-12",
+        "available": True,
+        "due_date": None,
         "checkouts": 3
     }
 ]
